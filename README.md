@@ -1,9 +1,7 @@
 # Rails-ActiveMailer-Broadcast-App
-This side project will try to achieve the same outcomes with the latest rails, Rails 7, using built in tools like ActiveMailer.
+This side project will try to achieve the same outcomes with the latest rails, Rails 7, using built in tools like ActiveMailer. We are going to have open syncs around the project at Saint Augustine [Jax Code and Coffee](https://www.meetup.com/jax-code-and-coffee). 
 
-We are going to have open syncs around the project at Saint Augustine [Jax Code and Coffee](https://www.meetup.com/jax-code-and-coffee).
-
-Simple Rails Broadcast App with Twilio &amp; Mailgun APIs. Fly your SMS broadcasts to the moon!
+Using Twilio &amp; Mailgun APIs. Fly your SMS broadcasts to the moon!
 
 ### How This Thing Works
 
